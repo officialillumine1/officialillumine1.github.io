@@ -29,7 +29,7 @@
 # PROJECT 2
 **TITLE:** Employee Records Cleansing
 
-**SQL CODE:** [SQL QUERRIES] (https://github.com/officialillumine1/officialillumine1.github.io/blob/main/Employee_data_sql)
+**SQL CODE:** [SQL querries] (https://github.com/officialillumine1/officialillumine1.github.io/blob/main/Employee_data_sql)
 
 **SQL SKILLS USED:**
 	**1.	Data Cleaning and Preparation**
