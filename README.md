@@ -30,32 +30,32 @@
 **SQL CODE:** [SQL queries](https://github.com/officialillumine1/officialillumine1.github.io/blob/main/Employee_data_sql)
 
 **SQL SKILLS USED:**
-	**1.	Data Cleaning and Preparation**
+1.	**Data Cleaning and Preparation**
 	Used SQL queries to handle missing values, standardize data formats, and clean inconsistent entries.
 	Techniques: CASE statements, IS NULL, TRIM(), UPPER()/LOWER(), etc.
  
- **2.	Data Aggregation**
+ 2.	**Data Aggregation**
 	Summarized employee data using functions like SUM(), COUNT(), AVG(), MIN(), and MAX().
 	Group data by key metrics using GROUP BY.
  
- **3.	Joins and Relationships**
+ 3.	**Joins and Relationships**
 	Combined data from multiple tables using joins (INNER JOIN, LEFT JOIN, etc.).
 	Understand relationships like employees and their departments, projects, or supervisors.
 	
- **4.	Filtering and Conditional Logic**
+ 4.	**Filtering and Conditional Logic**
 	Extracted subsets of data using WHERE, HAVING, and BETWEEN.
 	Apply complex conditions to segment employees (e.g., by salary range, age, or performance).
 	
- **5.	Window Functions**
+ 5.	**Window Functions**
 	Used ROW_NUMBER(), RANK(), and PARTITION BY to analyze trends and comparisons within groups (e.g., tenure ranking).
 	
- **6.	Case Studies or Metrics**
+ 6.	**Case Studies or Metrics**
 	Analyze KPIs such as employee retention, turnover rates, or performance metrics.
 	Create reports for salary distributions, department headcounts, or hiring trends.
 	
- **7.	Database Design and Normalization**
-  Understand the structure of employee databases, ensuring efficient querying and storage.
-  Creating Reports
+ 7.	**Database Design and Normalization**
+	Understand the structure of employee databases, ensuring efficient querying and storage.
+  	Creating Reports
 	Generate summary tables and export data for visualization.
 
 
