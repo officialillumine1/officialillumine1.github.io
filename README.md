@@ -1,4 +1,3 @@
-# DATA ANALYTICS PORTFOLIO
 # PROJECT 1
 
 **TITLE:** [Sales Interactive Dashboard](https://github.com/officialillumine1/officialillumine1.github.io/blob/main/Sales%20Accts%20Real.xlsx)
