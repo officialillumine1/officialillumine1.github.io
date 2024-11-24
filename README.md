@@ -2,7 +2,7 @@
 
 **TITLE:** [Sales Interactive Dashboard](https://github.com/officialillumine1/officialillumine1.github.io/blob/main/Sales%20Accts%20Real.xlsx)
 
-**TOOLS USED:** Microsoft Excel (Pivot Chart, Pivot tables, Conditional formating, filters, slicers, timelines)
+**TOOLS USED:** Microsoft Excel (Pivot Chart, Pivot tables, Conditional formating, filters, slicers, map, timelines)
 
 **PROJECT DESCRIPTION:** Executive Sales Overview Dashboard: This dashboard delivers key sales insights in a concise and visually engaging format. It highlights total sales, split into in-store and online performance, with figures for the best-selling product and average sales by category. Detailed analytics include quantity sold by product, city-wise sales distribution, and customer spending trends. A slicer allows stakeholders to filter data by city, and a timeline provides an overview of sales trends over time. Designed for strategic decision-making, this dashboard offers a clear and actionable view of business performance to drive informed discussions and planning.
 
